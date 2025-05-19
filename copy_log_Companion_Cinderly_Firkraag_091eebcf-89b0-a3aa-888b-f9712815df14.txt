@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14 
-   Mon 05/19/2025  3:42:55.32 
+   Mon 05/19/2025  3:50:02.81 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -1023,7 +1023,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 3:42:58 AM
+  Started : Monday, May 19, 2025 3:50:06 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\
      Dest : C:\GIT_BG3\MOD_REPOS\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Projects\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\
 
@@ -1047,7 +1047,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           141786000 Bytes/sec.
    Speed :            8113.059 MegaBytes/min.
-   Ended : Monday, May 19, 2025 3:42:58 AM
+   Ended : Monday, May 19, 2025 3:50:06 AM
 
  
 [DEBUG] Counting source files 
@@ -1073,7 +1073,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 3:43:00 AM
+  Started : Monday, May 19, 2025 3:50:07 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\
      Dest : C:\GIT_BG3\MOD_REPOS\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\
 
@@ -1114,9 +1114,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           5840840695 Bytes/sec.
-   Speed :           334215.585 MegaBytes/min.
-   Ended : Monday, May 19, 2025 3:43:00 AM
+   Speed :           5373573440 Bytes/sec.
+   Speed :           307478.338 MegaBytes/min.
+   Ended : Monday, May 19, 2025 3:50:07 AM
 
  
 [DEBUG] Counting source files 
@@ -1142,7 +1142,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 3:43:02 AM
+  Started : Monday, May 19, 2025 3:50:09 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\
      Dest : C:\GIT_BG3\MOD_REPOS\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\
 
@@ -1167,7 +1167,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           164417000 Bytes/sec.
    Speed :            9408.016 MegaBytes/min.
-   Ended : Monday, May 19, 2025 3:43:02 AM
+   Ended : Monday, May 19, 2025 3:50:09 AM
 
  
 [DEBUG] Counting source files 
@@ -1193,7 +1193,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 3:43:04 AM
+  Started : Monday, May 19, 2025 3:50:11 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\
      Dest : C:\GIT_BG3\MOD_REPOS\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\
 
@@ -2132,12 +2132,12 @@ SECTION 2: COPY OPERATIONS
     Dirs :        14        14         1         0         0         0
    Files :       922       922         0         0         0         0
    Bytes :   29.90 m   29.90 m         0         0         0         0
-   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Times :   0:00:01   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           195970687 Bytes/sec.
-   Speed :           11213.532 MegaBytes/min.
-   Ended : Monday, May 19, 2025 3:43:04 AM
+   Speed :           155224306 Bytes/sec.
+   Speed :            8882.006 MegaBytes/min.
+   Ended : Monday, May 19, 2025 3:50:11 AM
 
  
 [DEBUG] Counting source files 
@@ -2163,7 +2163,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 3:43:06 AM
+  Started : Monday, May 19, 2025 3:50:13 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\
      Dest : C:\GIT_BG3\MOD_REPOS\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\
 
@@ -2206,9 +2206,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           5577625047 Bytes/sec.
-   Speed :           319154.265 MegaBytes/min.
-   Ended : Monday, May 19, 2025 3:43:06 AM
+   Speed :           5324096636 Bytes/sec.
+   Speed :           304647.253 MegaBytes/min.
+   Ended : Monday, May 19, 2025 3:50:13 AM
 
  
 [DEBUG] Counting source files 
