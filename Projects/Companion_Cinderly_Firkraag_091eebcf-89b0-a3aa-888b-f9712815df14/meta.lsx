@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="091eebcf-89b0-a3aa-888b-f9712815df14"/>
+            <attribute id="Name" type="LSString" value="Companion_Cinderly_Firkraag"/>
+            <attribute id="UUID" type="LSString" value="7673ace8-1c03-8928-1c97-72e6992968f4"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>

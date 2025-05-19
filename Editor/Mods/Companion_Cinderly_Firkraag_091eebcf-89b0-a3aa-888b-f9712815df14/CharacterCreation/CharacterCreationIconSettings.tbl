@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="3b034ae3-d260-4a73-b10f-9e954489d19a">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="9bec5d04-e082-4e0a-a3d0-4f88fd479db1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="Tets_1" />
+        <field name="RootTemplate" type="GuidTableFieldDefinition" value="0da40707-4d75-4408-b185-e38f9e5830f0" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotNames" type="EnumerationListTableFieldDefinition" value="DragonbornJaw;DragonbornChin;DragonbornTop;Tail" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="70a84b9c-9996-4bf0-a0cd-6d3754fe1eda" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>
