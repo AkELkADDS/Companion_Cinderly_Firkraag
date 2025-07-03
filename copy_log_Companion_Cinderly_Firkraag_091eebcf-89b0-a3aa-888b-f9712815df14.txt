@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14 
-   Sun 05/25/2025  6:11:52.98 
+   Thu 07/03/2025 15:42:57.90 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -27,7 +27,7 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_LashesShadow.lsmg 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB.lsmg 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0624b307-d8c0-d980-dc7c-fc5dd910993c.lsmg 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4.lsmg 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc.lsmg 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0f2a0fad-776a-41b4-e8ba-ad927c513c4b.lsmg 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0f9854e5-fc0f-fcd2-2cb8-a33a3834db3f.lsmg 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_250287a3-7fdb-42ca-d80e-abd9ebb79701.lsmg 
@@ -37,13 +37,12 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_95f39336-884d-b903-d176-4f067960a8c1.lsmg 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_b0030781-0faf-86c5-89bb-b8cab5b02d2c.lsmg 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_cdacc263-e3b5-9ee9-2d86-cd563ee23182.lsmg 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13.lsmg 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_eea85822-c918-a3d7-66f9-4f5a71b180e8.lsmg 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Tearline.lsmg 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\CharacterCreation\CharacterCreationAppearanceVisuals.tbl 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\CharacterCreation\CharacterCreationIconSettings.tbl 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\CharacterCreationPresets\CharacterCreationMaterialOverrides.tbl 
-Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14: 22 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14: 21 
  
 [LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14 
  
@@ -56,6 +55,7 @@ Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Compa
 [LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14 
  
 Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Characters\_Anims\Dragonborn\_Male\DGB_M_NKD_Head_D_Base_BackUP.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Base\Base_SSS_VT.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Base\Base_SSS_VT_STI_DEF_DX11.bshd 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Base\Base_SSS_VT_STI_DEF_DX12.bshd 
@@ -287,52 +287,52 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0624b307-d8c0-d980-dc7c-fc5dd910993c_ST_VEL_DX11.bshd 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0624b307-d8c0-d980-dc7c-fc5dd910993c_ST_VEL_DX12.bshd 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0624b307-d8c0-d980-dc7c-fc5dd910993c_ST_VEL_Vulkan.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4.lsf 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_STI_DEF_DX11.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_STI_DEF_DX12.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_STI_DEF_Vulkan.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_STI_DEPST_DX11.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_STI_DEPST_DX12.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_STI_DEPST_Vulkan.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_STI_DEPS_DX11.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_STI_DEPS_DX12.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_STI_DEPS_Vulkan.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_STI_DEP_DX11.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_STI_DEP_DX12.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_STI_DEP_Vulkan.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_STI_EMI_DX11.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_STI_EMI_DX12.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_STI_EMI_Vulkan.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_STI_FOR_DX11.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_STI_FOR_DX12.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_STI_FOR_Vulkan.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_STI_VEL_DX11.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_STI_VEL_DX12.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_STI_VEL_Vulkan.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_BAKE_DX11.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_BAKE_DX12.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_BAKE_Vulkan.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_DEF_DX11.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_DEF_DX12.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_DEF_Vulkan.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_DEPST_DX11.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_DEPST_DX12.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_DEPST_Vulkan.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_DEPS_DX11.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_DEPS_DX12.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_DEPS_Vulkan.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_DEP_DX11.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_DEP_DX12.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_DEP_Vulkan.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_EMI_DX11.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_EMI_DX12.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_EMI_Vulkan.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_FOR_DX11.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_FOR_DX12.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_FOR_Vulkan.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_VEL_DX11.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_VEL_DX12.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_VEL_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_STI_DEF_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_STI_DEF_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_STI_DEF_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_STI_DEPST_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_STI_DEPST_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_STI_DEPST_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_STI_DEPS_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_STI_DEPS_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_STI_DEPS_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_STI_DEP_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_STI_DEP_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_STI_DEP_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_STI_EMI_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_STI_EMI_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_STI_EMI_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_STI_FOR_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_STI_FOR_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_STI_FOR_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_STI_VEL_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_STI_VEL_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_STI_VEL_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_BAKE_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_BAKE_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_BAKE_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_DEF_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_DEF_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_DEF_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_DEPST_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_DEPST_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_DEPST_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_DEPS_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_DEPS_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_DEPS_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_DEP_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_DEP_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_DEP_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_EMI_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_EMI_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_EMI_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_FOR_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_FOR_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_FOR_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_VEL_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_VEL_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_VEL_Vulkan.bshd 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0f2a0fad-776a-41b4-e8ba-ad927c513c4b.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0f2a0fad-776a-41b4-e8ba-ad927c513c4b_STI_DEF_DX11.bshd 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0f2a0fad-776a-41b4-e8ba-ad927c513c4b_STI_DEF_DX12.bshd 
@@ -747,52 +747,6 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_cdacc263-e3b5-9ee9-2d86-cd563ee23182_ST_VEL_DX11.bshd 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_cdacc263-e3b5-9ee9-2d86-cd563ee23182_ST_VEL_DX12.bshd 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_cdacc263-e3b5-9ee9-2d86-cd563ee23182_ST_VEL_Vulkan.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13.lsf 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_STI_DEF_DX11.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_STI_DEF_DX12.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_STI_DEF_Vulkan.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_STI_DEPST_DX11.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_STI_DEPST_DX12.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_STI_DEPST_Vulkan.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_STI_DEPS_DX11.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_STI_DEPS_DX12.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_STI_DEPS_Vulkan.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_STI_DEP_DX11.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_STI_DEP_DX12.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_STI_DEP_Vulkan.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_STI_EMI_DX11.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_STI_EMI_DX12.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_STI_EMI_Vulkan.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_STI_FOR_DX11.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_STI_FOR_DX12.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_STI_FOR_Vulkan.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_STI_VEL_DX11.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_STI_VEL_DX12.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_STI_VEL_Vulkan.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_BAKE_DX11.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_BAKE_DX12.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_BAKE_Vulkan.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_DEF_DX11.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_DEF_DX12.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_DEF_Vulkan.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_DEPST_DX11.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_DEPST_DX12.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_DEPST_Vulkan.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_DEPS_DX11.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_DEPS_DX12.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_DEPS_Vulkan.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_DEP_DX11.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_DEP_DX12.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_DEP_Vulkan.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_EMI_DX11.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_EMI_DX12.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_EMI_Vulkan.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_FOR_DX11.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_FOR_DX12.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_FOR_Vulkan.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_VEL_DX11.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_VEL_DX12.bshd 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_VEL_Vulkan.bshd 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_eea85822-c918-a3d7-66f9-4f5a71b180e8.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_eea85822-c918-a3d7-66f9-4f5a71b180e8_STI_DEF_DX11.bshd 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_eea85822-c918-a3d7-66f9-4f5a71b180e8_STI_DEF_DX12.bshd 
@@ -937,7 +891,6 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Cinderly_Chin_1.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Cinderly_Crest_1.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Cinderly_Head_Mage_Test_1.GR2 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Cinderly_Head_Mage_Test_1.xml 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Cinderly_Head_Mage_Test_1_Crest.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Cinderly_Jaw.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Cinderly_Test_1.GR2 
@@ -956,56 +909,116 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\DGB_M_NKD_Head_D_Chin_CDRL_1.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\DGB_M_NKD_Head_D_Chin_CDRL_Mostashe.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\DGB_M_NKD_Head_D_Jaw_Spikes_Cinderly.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Dreadlocks_FB.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Dreadlocks_FB.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Fins_FA.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Fins_FA.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_FC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_FC.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_FE.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_FE.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_MA.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_MA.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_MB.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_MB.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_MC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_MC.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_ME.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_ME.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_MF.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_MF.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_MG.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_MG.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horn_FD.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horn_FD.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_MD.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_MD.xml 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\047e7f96-c731-4bee-b165-218e793f3696.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\0624b307-d8c0-d980-dc7c-fc5dd910993c.lsf 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\076d6065-a5c2-4a2b-7c3a-e7e700844a13.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\09a0e6ab-94f5-5fdf-08f9-96367ed826be.lsf 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\0e1eb083-eefd-334d-d098-b14843266ce4.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\0cd7edce-e88c-01d7-6b76-5db080b3b6fc.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\0f2a0fad-776a-41b4-e8ba-ad927c513c4b.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\0f9854e5-fc0f-fcd2-2cb8-a33a3834db3f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\15adee8c-8171-29ab-b591-64e54262340d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\163e9211-571d-71fb-f5da-4a90b1a01603.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\18af67f8-0c63-1d77-b9fa-ac325e582f90.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\1f85855d-6075-6fe0-79da-c93da76d710e.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\223b0836-34ab-61d8-b97e-fb9cef46fe0a.lsf 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\2392cc71-da12-4215-3420-569ca428b834.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\250287a3-7fdb-42ca-d80e-abd9ebb79701.lsf 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\2ab3278d-3445-1afb-49f0-1fe1b865eaa8.lsf 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\346ea696-90a9-275b-7052-eb3b445af5b1.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\272e3a2c-1f4a-f466-0583-f056bf3e1322.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\2bbc1518-4c1e-4bd3-9255-d13a4494af88.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\2c72641d-4b31-f245-6e0f-0b6c808317a9.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\32072bb6-3e79-fac1-6f40-e09ef74c6e9d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\3627368a-c2f6-0acb-9243-5cea7d284e54.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\374ccf15-dee9-48d2-9a75-0aa91c89a64a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\3bfd5ba7-5839-43e6-bf83-cc3265807a9f.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\3c7cfa2a-19fd-2f75-3ffb-56295a4f0433.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\3f8364a6-5704-0cc3-1aa4-b555fdfb8280.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\401ea2c8-fa4f-4234-babf-2afa00f01530.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\42b59650-012b-e81f-81d8-85319c5afa59.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\44073b89-b226-7b95-1b37-134c90410580.lsf 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\463e61dc-65d5-42fe-b42b-3c2703adff8f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\47f4d363-1fea-43a3-b1d8-4cb40557b045.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\4a15c66b-83b2-6252-99ff-59a2d0176b40.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\4a317127-9213-b2ed-f1b7-f71193189fb9.lsf 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\67d192a3-7f97-b763-034a-285a1a0400c6.lsf 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\6875d55a-6e60-ecaa-69d0-26718f986e5e.lsf 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\6a64c5f7-a576-4959-26fc-d8ce84d31cf3.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\54c56ba8-63d8-4a52-9221-20dd288d513d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\6cda8cbd-5c10-e9c7-2cac-279bf4f6368c.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\763fed93-43f1-975f-596f-519b196b97b9.lsf 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\7a3c55f2-1967-d6e8-388d-1f9d54b90adf.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\791afaf2-f005-16bc-8e84-fc3259ecfb77.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\7db89ac5-0760-cc35-da1e-2955a8047d30.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\7f2f5067-82da-79e9-6da7-0e4068dd6855.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\7f61af14-4b4e-fb73-b07a-7391b8168f30.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\84ef5cb2-77ed-c58a-4c0c-558e668df7bb.lsf 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\84fca740-1163-af74-1978-b30f66de52d3.lsf 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\899ed93d-6d53-bacb-3101-887cc879be32.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\8e28b862-9775-a06f-0c2a-30c29cdd2040.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\94b049df-5885-ac15-f8ca-9a0cf58daac1.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\95f39336-884d-b903-d176-4f067960a8c1.lsf 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\a37c864d-f62d-62e7-a02d-3ab7c9286b90.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\992069d3-e5ac-89ca-1c07-07c376cfb368.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\a9fefceb-2bf7-0006-ae6d-ece97e78c28f.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\b0030781-0faf-86c5-89bb-b8cab5b02d2c.lsf 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\b0750abb-42ee-65a2-c0ee-6dc3302f5d86.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\b049a02d-93eb-48f4-9bdb-b4ee93b2834e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\b583250e-3d4a-daf4-0a48-a5eb0118c7cc.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\bf99b5b9-d5e8-79c1-5586-96a73fef0156.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\c1921263-60f0-475e-ab55-a9c7cc6c40e3.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\c26a3d89-0088-904e-c874-220dae38bdde.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\c362e10f-423a-3a6e-1de8-d0e9eabe3911.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\c7c46f45-c2a1-48f9-be24-445f6a97928f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\c99afcdc-3213-48b7-8d66-7ba1cf2ea70b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\cd8b2d35-aa96-c99b-4eed-386b8ad456bf.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\cdacc263-e3b5-9ee9-2d86-cd563ee23182.lsf 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\d0581063-9dc6-d9f6-a993-1a8f3b77df13.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\d0664f09-d84d-4119-9b78-108dc86355db.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\d0f5f3b7-defe-44d2-d848-0c219802c961.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\d193cbad-b035-484a-99a2-354ed115d348.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\d4f7a919-fb56-4fe6-bb25-9dc4596a5c34.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\db98e61f-45ba-3494-ce81-c19de4c17976.lsf 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\dbd7130b-e2ac-6ef0-5b00-d68a27d83297.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\ec159385-cee7-6777-e573-84b44563b1cb.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\ed64c27a-17ff-1e11-6bd4-ea972f47e723.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\eea85822-c918-a3d7-66f9-4f5a71b180e8.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\f4f844cd-1a55-48a2-b7b3-dbc600625d26.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\f58e9d15-858d-458a-9e07-23742706b626.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\fc5f563c-db64-ae87-7660-4c8d4bf5f3e6.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\fe9bb1bc-eb46-943b-9afd-8dda3b16464d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\ff33eaee-6ab9-c9a5-f53d-b903a0199872.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\ffc210cc-6cc0-814c-0236-bf6d555ac789.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\GUI\CinderlyAtlas.lsx 
-Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14: 945 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14: 944 
  
 [LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14 
  
 Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Head_CDRL\Resources\DGB_M_NKD_Head_CDRL_Top_CDRL_A_Dreads_A_BM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Head_CDRL\Resources\DGB_M_NKD_Head_CDRL_Top_CDRL_A_Dreads_A_NM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Head_CDRL\Resources\DGB_M_NKD_Head_CDRL_Top_CDRL_A_Dreads_A_PM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Head_CDRL\Resources\DGB_M_NKD_Head_CDRL_Top_CDRL_A_Dreads_CTLO.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Head_CDRL\Resources\DGB_M_NKD_Head_CDRL_Top_CDRL_A_Dreads_DB_DMSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Head_CDRL\Resources\DGB_M_NKD_Head_CDRL_Top_CDRL_A_Dreads_DMSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Head_CDRL\Resources\DGB_M_NKD_Head_CDRL_Top_CDRL_A_Dreads_HMVY.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Head_CDRL\Resources\DGB_M_NKD_Head_CDRL_Top_CDRL_A_Dreads_MSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Head_CDRL\Resources\DGB_M_NKD_Head_CDRL_Top_CDRL_A_Dreads_NM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Head_CDRL\Resources\DGB_M_NKD_Head_CDRL_Top_CDRL_A_Head_CTLO.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Head_CDRL\Resources\DGB_M_NKD_Head_CDRL_Top_CDRL_A_Head_DB_DMSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Head_CDRL\Resources\DGB_M_NKD_Head_CDRL_Top_CDRL_A_Head_DMSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Head_CDRL\Resources\DGB_M_NKD_Head_CDRL_Top_CDRL_A_Head_HMVY.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Head_CDRL\Resources\DGB_M_NKD_Head_CDRL_Top_CDRL_A_Head_MSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Head_CDRL\Resources\DGB_M_NKD_Head_CDRL_Top_CDRL_A_Head_NM.DDS 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Characters\_Models\_SharedAssets\SHARED_Eyes\EYES_AO_DGB_Region_000.DDS 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Characters\_Models\_SharedAssets\SHARED_Eyes\EYES_DGB_Parts_000.DDS 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Characters\_Models\_SharedAssets\SHARED_Eyes\EYES_DGB_Parts_0001.DDS 
@@ -1014,13 +1027,28 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Textures\DRAGON_Red_Head_A_000_Normal.DDS 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Textures\DRAGON_Red_Head_A_000_Physical.DDS 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\DGB_M_NKD_Head_CDRL_Chin_CDRL_A_V14.GR2 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\DGB_M_NKD_Head_CDRL_Jaw_CDRL_A_V14.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\DGB_M_NKD_Head_CDRL_Top_CDRL_A_V14.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\DGB_M_NKD_Head_CDRL_V14.GR2 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\SK\Cinderly_SK_v11_1.GR2 
-Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14: 12 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_A\DGB_M_NKD_Head_CDRL_Top_CDRL_A.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Dreadlocks_FB.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Fins_FA.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_FC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_FE.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_MA.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_MB.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_MC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_ME.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_MF.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_MG.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horn_FD.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_MD.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Head\DGB_M_NKD_Head_CDRL.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Jaw\DGB_M_NKD_Head_CDRL_Jaw_A.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\SK\DGB_M_Base_A_EL_4.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\SK\DGB_M_NKD_Head_CDRL_Base.GR2 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14: 42 
  
-[LOG] Total files found across all folders: 984 
+[LOG] Total files found across all folders: 1012 
  
 SECTION 2: COPY OPERATIONS 
 ------------------------------------------------------------------------ 
@@ -1036,7 +1064,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Sunday, May 25, 2025 6:11:56 AM
+  Started : Thursday, July 3, 2025 3:43:01 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\
      Dest : C:\GIT_BG3\MOD_REPOS\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Projects\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\
 
@@ -1047,7 +1075,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		     706	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\meta.lsx100%  
-	    New File  		  141157	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\thumbnail.png  0%  100%  
+	    New File  		  141157	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\thumbnail.png100%  
 
 ------------------------------------------------------------------------------
 
@@ -1058,9 +1086,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :            17732875 Bytes/sec.
-   Speed :            1014.683 MegaBytes/min.
-   Ended : Sunday, May 25, 2025 6:11:56 AM
+   Speed :           141863000 Bytes/sec.
+   Speed :            8117.465 MegaBytes/min.
+   Ended : Thursday, July 3, 2025 3:43:01 PM
 
  
 [DEBUG] Counting source files 
@@ -1086,7 +1114,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Sunday, May 25, 2025 6:11:57 AM
+  Started : Thursday, July 3, 2025 3:43:03 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\
      Dest : C:\GIT_BG3\MOD_REPOS\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\
 
@@ -1096,16 +1124,17 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		   60187	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\CharacterCreation\CharacterCreationAppearanceVisuals.tbl100%  
+	    New File  		   53073	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\CharacterCreation\CharacterCreationAppearanceVisuals.tbl100%  
 	    New File  		    1095	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\CharacterCreation\CharacterCreationIconSettings.tbl100%  
 	    New File  		     942	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\CharacterCreationPresets\CharacterCreationMaterialOverrides.tbl100%  
+	    New File  		   81097	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Base\Base_SSS_VT.lsmg100%  
 	    New File  		   5.1 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Eye_Parallax_FX.lsmg100%  
 	    New File  		   5.1 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Eye_Parallax_FX_db98e61f-45ba-3494-ce81-c19de4c17976.lsmg100%  
 	    New File  		  270506	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_LashesShadow.lsmg100%  
 	    New File  		   9.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB.lsmg100%  
 	    New File  		   9.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0624b307-d8c0-d980-dc7c-fc5dd910993c.lsmg100%  
-	    New File  		   9.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4.lsmg100%  
-	    New File  		   9.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0f2a0fad-776a-41b4-e8ba-ad927c513c4b.lsmg100%  
+	    New File  		   9.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc.lsmg100%  
+	    New File  		   9.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0f2a0fad-776a-41b4-e8ba-ad927c513c4b.lsmg 99%  100%  
 	    New File  		   9.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0f9854e5-fc0f-fcd2-2cb8-a33a3834db3f.lsmg100%  
 	    New File  		   9.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_250287a3-7fdb-42ca-d80e-abd9ebb79701.lsmg100%  
 	    New File  		   9.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_4a317127-9213-b2ed-f1b7-f71193189fb9.lsmg100%  
@@ -1113,32 +1142,30 @@ SECTION 2: COPY OPERATIONS
 	    New File  		   9.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_84ef5cb2-77ed-c58a-4c0c-558e668df7bb.lsmg100%  
 	    New File  		   9.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_95f39336-884d-b903-d176-4f067960a8c1.lsmg100%  
 	    New File  		   9.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_b0030781-0faf-86c5-89bb-b8cab5b02d2c.lsmg100%  
-	    New File  		   9.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_cdacc263-e3b5-9ee9-2d86-cd563ee23182.lsmg 66%  100%  
-	    New File  		   9.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13.lsmg100%  
+	    New File  		   9.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_cdacc263-e3b5-9ee9-2d86-cd563ee23182.lsmg100%  
 	    New File  		   9.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_eea85822-c918-a3d7-66f9-4f5a71b180e8.lsmg100%  
 	    New File  		   49478	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Tearline.lsmg100%  
-	    New File  		   81097	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Base\Base_SSS_VT.lsmg100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
     Dirs :        10        10         1         0         0         0
-   Files :        22        22         0         0         0         0
-   Bytes :  137.08 m  137.08 m         0         0         0         0
-   Times :   0:00:01   0:00:00                       0:00:00   0:00:00
+   Files :        21        21         0         0         0         0
+   Bytes :  128.04 m  128.04 m         0         0         0         0
+   Times :   0:00:02   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           794172082 Bytes/sec.
-   Speed :           45442.891 MegaBytes/min.
-   Ended : Sunday, May 25, 2025 6:11:57 AM
+   Speed :           402000988 Bytes/sec.
+   Speed :           23002.681 MegaBytes/min.
+   Ended : Thursday, July 3, 2025 3:43:03 PM
 
  
 [DEBUG] Counting source files 
-[DEBUG] Total files counted: 22 
-[DEBUG] Successfully copied files: 22 
+[DEBUG] Total files counted: 21 
+[DEBUG] Successfully copied files: 21 
 [LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14: 
-      Total files: 22 
-      Copied successfully: 22 
+      Total files: 21 
+      Copied successfully: 21 
       Skipped: 0 
       Mismatched: 0 
       Failed: 0 
@@ -1156,7 +1183,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Sunday, May 25, 2025 6:11:59 AM
+  Started : Thursday, July 3, 2025 3:43:05 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\
      Dest : C:\GIT_BG3\MOD_REPOS\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\
 
@@ -1167,21 +1194,21 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		   11949	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\meta.lsx100%  
-	    New File  		  141157	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\mod_publish_logo.png100%  
-	    New File  		   10680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Localization\English\english.xml100%  
+	    New File  		  141157	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\mod_publish_logo.png  0%  100%  
+	    New File  		   14288	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Localization\English\english.xml100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
     Dirs :         3         3         1         0         0         0
    Files :         3         3         0         0         0         0
-   Bytes :   159.9 k   159.9 k         0         0         0         0
+   Bytes :   163.4 k   163.4 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :            81893000 Bytes/sec.
-   Speed :            4685.955 MegaBytes/min.
-   Ended : Sunday, May 25, 2025 6:11:59 AM
+   Speed :           167394000 Bytes/sec.
+   Speed :            9578.361 MegaBytes/min.
+   Ended : Thursday, July 3, 2025 3:43:05 PM
 
  
 [DEBUG] Counting source files 
@@ -1207,7 +1234,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Sunday, May 25, 2025 6:12:01 AM
+  Started : Thursday, July 3, 2025 3:43:07 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\
      Dest : C:\GIT_BG3\MOD_REPOS\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\
 
@@ -1217,14 +1244,13 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		   43573	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
+	    New File  		   36166	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
 	    New File  		    1712	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\CharacterCreation\CharacterCreationIconSettings.lsx100%  
 	    New File  		     858	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\CharacterCreationPresets\CharacterCreationMaterialOverrides.lsx100%  
 	    New File  		    1521	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\GUI\CinderlyAtlas.lsx100%  
 	    New File  		   66900	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Cinderly_Chin_1.GR2100%  
 	    New File  		  456304	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Cinderly_Crest_1.GR2100%  
 	    New File  		  668808	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Cinderly_Head_Mage_Test_1.GR2100%  
-	    New File  		     150	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Cinderly_Head_Mage_Test_1.xml100%  
 	    New File  		  631612	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Cinderly_Head_Mage_Test_1_Crest.GR2100%  
 	    New File  		  191088	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Cinderly_Jaw.GR2100%  
 	    New File  		  673160	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Cinderly_Test_1.GR2100%  
@@ -1243,50 +1269,71 @@ SECTION 2: COPY OPERATIONS
 	    New File  		   65048	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\DGB_M_NKD_Head_D_Chin_CDRL_1.GR2100%  
 	    New File  		  104328	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\DGB_M_NKD_Head_D_Chin_CDRL_Mostashe.GR2100%  
 	    New File  		  183672	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\DGB_M_NKD_Head_D_Jaw_Spikes_Cinderly.GR2100%  
-	    New File  		    2541	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\047e7f96-c731-4bee-b165-218e793f3696.lsf100%  
+	    New File  		    2522	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\047e7f96-c731-4bee-b165-218e793f3696.lsf100%  
 	    New File  		   14088	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\0624b307-d8c0-d980-dc7c-fc5dd910993c.lsf100%  
-	    New File  		    2426	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\076d6065-a5c2-4a2b-7c3a-e7e700844a13.lsf100%  
 	    New File  		    2405	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\09a0e6ab-94f5-5fdf-08f9-96367ed826be.lsf100%  
-	    New File  		   14101	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\0e1eb083-eefd-334d-d098-b14843266ce4.lsf100%  
+	    New File  		   14103	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\0cd7edce-e88c-01d7-6b76-5db080b3b6fc.lsf100%  
 	    New File  		   14088	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\0f2a0fad-776a-41b4-e8ba-ad927c513c4b.lsf100%  
 	    New File  		   14095	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\0f9854e5-fc0f-fcd2-2cb8-a33a3834db3f.lsf100%  
+	    New File  		   14013	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\15adee8c-8171-29ab-b591-64e54262340d.lsf100%  
+	    New File  		   14016	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\163e9211-571d-71fb-f5da-4a90b1a01603.lsf100%  
 	    New File  		    6991	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\18af67f8-0c63-1d77-b9fa-ac325e582f90.lsf100%  
+	    New File  		    1727	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\1f85855d-6075-6fe0-79da-c93da76d710e.lsf100%  
 	    New File  		    1637	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\223b0836-34ab-61d8-b97e-fb9cef46fe0a.lsf100%  
-	    New File  		    3276	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\2392cc71-da12-4215-3420-569ca428b834.lsf100%  
 	    New File  		   14088	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\250287a3-7fdb-42ca-d80e-abd9ebb79701.lsf100%  
-	    New File  		    3272	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\2ab3278d-3445-1afb-49f0-1fe1b865eaa8.lsf100%  
-	    New File  		    3272	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\346ea696-90a9-275b-7052-eb3b445af5b1.lsf100%  
+	    New File  		   14016	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\272e3a2c-1f4a-f466-0583-f056bf3e1322.lsf100%  
+	    New File  		    2629	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\2bbc1518-4c1e-4bd3-9255-d13a4494af88.lsf100%  
+	    New File  		    1721	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\2c72641d-4b31-f245-6e0f-0b6c808317a9.lsf100%  
+	    New File  		    2390	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\32072bb6-3e79-fac1-6f40-e09ef74c6e9d.lsf100%  
+	    New File  		    1727	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\3627368a-c2f6-0acb-9243-5cea7d284e54.lsf100%  
 	    New File  		    2543	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\374ccf15-dee9-48d2-9a75-0aa91c89a64a.lsf100%  
+	    New File  		    2629	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\3bfd5ba7-5839-43e6-bf83-cc3265807a9f.lsf100%  
 	    New File  		    1504	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\3c7cfa2a-19fd-2f75-3ffb-56295a4f0433.lsf100%  
 	    New File  		    2573	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\3f8364a6-5704-0cc3-1aa4-b555fdfb8280.lsf100%  
+	    New File  		    2629	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\401ea2c8-fa4f-4234-babf-2afa00f01530.lsf100%  
 	    New File  		    1646	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\42b59650-012b-e81f-81d8-85319c5afa59.lsf100%  
 	    New File  		    1518	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\44073b89-b226-7b95-1b37-134c90410580.lsf100%  
-	    New File  		    3272	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\463e61dc-65d5-42fe-b42b-3c2703adff8f.lsf100%  
+	    New File  		    2803	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\47f4d363-1fea-43a3-b1d8-4cb40557b045.lsf100%  
 	    New File  		    1640	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\4a15c66b-83b2-6252-99ff-59a2d0176b40.lsf100%  
 	    New File  		   14088	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\4a317127-9213-b2ed-f1b7-f71193189fb9.lsf100%  
-	    New File  		    3272	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\67d192a3-7f97-b763-034a-285a1a0400c6.lsf100%  
-	    New File  		    3272	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\6875d55a-6e60-ecaa-69d0-26718f986e5e.lsf100%  
-	    New File  		    1662	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\6a64c5f7-a576-4959-26fc-d8ce84d31cf3.lsf100%  
+	    New File  		    2839	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\54c56ba8-63d8-4a52-9221-20dd288d513d.lsf100%  
+	    New File  		    1721	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\6cda8cbd-5c10-e9c7-2cac-279bf4f6368c.lsf100%  
 	    New File  		   14088	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\763fed93-43f1-975f-596f-519b196b97b9.lsf100%  
-	    New File  		    3272	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\7a3c55f2-1967-d6e8-388d-1f9d54b90adf.lsf100%  
+	    New File  		    1721	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\791afaf2-f005-16bc-8e84-fc3259ecfb77.lsf100%  
+	    New File  		    1727	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\7db89ac5-0760-cc35-da1e-2955a8047d30.lsf100%  
 	    New File  		    1579	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\7f2f5067-82da-79e9-6da7-0e4068dd6855.lsf100%  
+	    New File  		   44103	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\7f61af14-4b4e-fb73-b07a-7391b8168f30.lsf100%  
 	    New File  		   14088	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\84ef5cb2-77ed-c58a-4c0c-558e668df7bb.lsf100%  
-	    New File  		    3272	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\84fca740-1163-af74-1978-b30f66de52d3.lsf100%  
-	    New File  		    3272	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\899ed93d-6d53-bacb-3101-887cc879be32.lsf100%  
+	    New File  		    1724	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\8e28b862-9775-a06f-0c2a-30c29cdd2040.lsf100%  
+	    New File  		    1736	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\94b049df-5885-ac15-f8ca-9a0cf58daac1.lsf100%  
 	    New File  		   14088	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\95f39336-884d-b903-d176-4f067960a8c1.lsf100%  
-	    New File  		    3272	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\a37c864d-f62d-62e7-a02d-3ab7c9286b90.lsf100%  
+	    New File  		    1727	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\992069d3-e5ac-89ca-1c07-07c376cfb368.lsf100%  
+	    New File  		    5989	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\a9fefceb-2bf7-0006-ae6d-ece97e78c28f.lsf100%  
 	    New File  		   14088	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\b0030781-0faf-86c5-89bb-b8cab5b02d2c.lsf100%  
-	    New File  		    3272	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\b0750abb-42ee-65a2-c0ee-6dc3302f5d86.lsf100%  
+	    New File  		    2629	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\b049a02d-93eb-48f4-9bdb-b4ee93b2834e.lsf100%  
+	    New File  		    2177	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\b583250e-3d4a-daf4-0a48-a5eb0118c7cc.lsf100%  
+	    New File  		    1727	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\bf99b5b9-d5e8-79c1-5586-96a73fef0156.lsf100%  
+	    New File  		    2629	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\c1921263-60f0-475e-ab55-a9c7cc6c40e3.lsf100%  
 	    New File  		    1634	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\c26a3d89-0088-904e-c874-220dae38bdde.lsf100%  
 	    New File  		    2315	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\c362e10f-423a-3a6e-1de8-d0e9eabe3911.lsf100%  
-	    New File  		    2588	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\c7c46f45-c2a1-48f9-be24-445f6a97928f.lsf100%  
+	    New File  		    2955	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\c7c46f45-c2a1-48f9-be24-445f6a97928f.lsf100%  
+	    New File  		    2625	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\c99afcdc-3213-48b7-8d66-7ba1cf2ea70b.lsf100%  
+	    New File  		    1730	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\cd8b2d35-aa96-c99b-4eed-386b8ad456bf.lsf100%  
 	    New File  		   14088	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\cdacc263-e3b5-9ee9-2d86-cd563ee23182.lsf100%  
-	    New File  		   14052	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\d0581063-9dc6-d9f6-a993-1a8f3b77df13.lsf100%  
-	    New File  		    3254	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\d193cbad-b035-484a-99a2-354ed115d348.lsf100%  
+	    New File  		    2629	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\d0664f09-d84d-4119-9b78-108dc86355db.lsf100%  
+	    New File  		    1715	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\d0f5f3b7-defe-44d2-d848-0c219802c961.lsf100%  
+	    New File  		    3594	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\d193cbad-b035-484a-99a2-354ed115d348.lsf100%  
+	    New File  		    2624	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\d4f7a919-fb56-4fe6-bb25-9dc4596a5c34.lsf100%  
 	    New File  		    7030	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\db98e61f-45ba-3494-ce81-c19de4c17976.lsf100%  
-	    New File  		    3272	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\dbd7130b-e2ac-6ef0-5b00-d68a27d83297.lsf100%  
+	    New File  		    1721	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\ec159385-cee7-6777-e573-84b44563b1cb.lsf100%  
+	    New File  		    1718	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\ed64c27a-17ff-1e11-6bd4-ea972f47e723.lsf100%  
 	    New File  		   14088	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\eea85822-c918-a3d7-66f9-4f5a71b180e8.lsf100%  
+	    New File  		    2629	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\f4f844cd-1a55-48a2-b7b3-dbc600625d26.lsf100%  
+	    New File  		    2599	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\f58e9d15-858d-458a-9e07-23742706b626.lsf100%  
 	    New File  		   14051	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\fc5f563c-db64-ae87-7660-4c8d4bf5f3e6.lsf100%  
+	    New File  		    1727	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\fe9bb1bc-eb46-943b-9afd-8dda3b16464d.lsf100%  
+	    New File  		   45340	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\ff33eaee-6ab9-c9a5-f53d-b903a0199872.lsf100%  
+	    New File  		    2177	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Content\[PAK]_Companion_Cinderly_Firkraag\ffc210cc-6cc0-814c-0236-bf6d555ac789.lsf100%  
 	    New File  		   13549	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Base\Base_SSS_VT.lsf100%  
 	    New File  		    7812	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Base\Base_SSS_VT_STI_DEF_DX11.bshd100%  
 	    New File  		   19187	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Base\Base_SSS_VT_STI_DEF_DX12.bshd100%  
@@ -1519,52 +1566,52 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2040	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0624b307-d8c0-d980-dc7c-fc5dd910993c_ST_VEL_DX11.bshd100%  
 	    New File  		   13213	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0624b307-d8c0-d980-dc7c-fc5dd910993c_ST_VEL_DX12.bshd100%  
 	    New File  		    6164	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0624b307-d8c0-d980-dc7c-fc5dd910993c_ST_VEL_Vulkan.bshd100%  
-	    New File  		   34320	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4.lsf100%  
-	    New File  		   11184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_STI_DEF_DX11.bshd100%  
-	    New File  		   28202	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_STI_DEF_DX12.bshd100%  
-	    New File  		   24804	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_STI_DEF_Vulkan.bshd100%  
-	    New File  		    1516	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_STI_DEPST_DX11.bshd100%  
-	    New File  		    9516	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_STI_DEPST_DX12.bshd100%  
-	    New File  		    3558	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_STI_DEPST_Vulkan.bshd100%  
-	    New File  		     884	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_STI_DEPS_DX11.bshd100%  
-	    New File  		    7988	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_STI_DEPS_DX12.bshd100%  
-	    New File  		    1734	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_STI_DEPS_Vulkan.bshd100%  
-	    New File  		     884	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_STI_DEP_DX11.bshd100%  
-	    New File  		    7988	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_STI_DEP_DX12.bshd100%  
-	    New File  		    1734	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_STI_DEP_Vulkan.bshd100%  
-	    New File  		     964	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_STI_EMI_DX11.bshd100%  
-	    New File  		    8440	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_STI_EMI_DX12.bshd100%  
-	    New File  		    1886	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_STI_EMI_Vulkan.bshd100%  
-	    New File  		   36944	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_STI_FOR_DX11.bshd100%  
-	    New File  		   47108	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_STI_FOR_DX12.bshd100%  
-	    New File  		   55282	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_STI_FOR_Vulkan.bshd100%  
-	    New File  		    1776	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_STI_VEL_DX11.bshd100%  
-	    New File  		   12468	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_STI_VEL_DX12.bshd100%  
-	    New File  		    4862	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_STI_VEL_Vulkan.bshd100%  
-	    New File  		   11892	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_BAKE_DX11.bshd100%  
-	    New File  		   27610	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_BAKE_DX12.bshd100%  
-	    New File  		   25696	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_BAKE_Vulkan.bshd100%  
-	    New File  		   12380	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_DEF_DX11.bshd100%  
-	    New File  		   29502	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_DEF_DX12.bshd100%  
-	    New File  		   27324	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_DEF_Vulkan.bshd100%  
-	    New File  		    1676	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_DEPST_DX11.bshd100%  
-	    New File  		   10249	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_DEPST_DX12.bshd100%  
-	    New File  		    4308	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_DEPST_Vulkan.bshd100%  
-	    New File  		    1060	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_DEPS_DX11.bshd100%  
-	    New File  		    8997	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_DEPS_DX12.bshd100%  
-	    New File  		    2572	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_DEPS_Vulkan.bshd100%  
-	    New File  		    1060	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_DEP_DX11.bshd100%  
-	    New File  		    8997	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_DEP_DX12.bshd100%  
-	    New File  		    2556	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_DEP_Vulkan.bshd100%  
-	    New File  		    1140	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_EMI_DX11.bshd100%  
-	    New File  		    9449	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_EMI_DX12.bshd100%  
-	    New File  		    2708	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_EMI_Vulkan.bshd100%  
-	    New File  		   38140	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_FOR_DX11.bshd100%  
-	    New File  		   48372	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_FOR_DX12.bshd100%  
-	    New File  		   57786	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_FOR_Vulkan.bshd100%  
-	    New File  		    2040	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_VEL_DX11.bshd100%  
-	    New File  		   13213	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_VEL_DX12.bshd100%  
-	    New File  		    6164	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0e1eb083-eefd-334d-d098-b14843266ce4_ST_VEL_Vulkan.bshd100%  
+	    New File  		   34320	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc.lsf100%  
+	    New File  		   11184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_STI_DEF_DX11.bshd100%  
+	    New File  		   28202	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_STI_DEF_DX12.bshd100%  
+	    New File  		   24804	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_STI_DEF_Vulkan.bshd100%  
+	    New File  		    1516	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_STI_DEPST_DX11.bshd100%  
+	    New File  		    9516	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_STI_DEPST_DX12.bshd100%  
+	    New File  		    3558	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_STI_DEPST_Vulkan.bshd100%  
+	    New File  		     884	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_STI_DEPS_DX11.bshd100%  
+	    New File  		    7988	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_STI_DEPS_DX12.bshd100%  
+	    New File  		    1734	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_STI_DEPS_Vulkan.bshd100%  
+	    New File  		     884	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_STI_DEP_DX11.bshd100%  
+	    New File  		    7988	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_STI_DEP_DX12.bshd100%  
+	    New File  		    1734	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_STI_DEP_Vulkan.bshd100%  
+	    New File  		     964	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_STI_EMI_DX11.bshd100%  
+	    New File  		    8440	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_STI_EMI_DX12.bshd100%  
+	    New File  		    1886	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_STI_EMI_Vulkan.bshd100%  
+	    New File  		   36944	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_STI_FOR_DX11.bshd100%  
+	    New File  		   47108	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_STI_FOR_DX12.bshd100%  
+	    New File  		   55282	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_STI_FOR_Vulkan.bshd100%  
+	    New File  		    1776	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_STI_VEL_DX11.bshd100%  
+	    New File  		   12468	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_STI_VEL_DX12.bshd100%  
+	    New File  		    4862	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_STI_VEL_Vulkan.bshd100%  
+	    New File  		   11892	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_BAKE_DX11.bshd100%  
+	    New File  		   27610	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_BAKE_DX12.bshd100%  
+	    New File  		   25696	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_BAKE_Vulkan.bshd100%  
+	    New File  		   12380	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_DEF_DX11.bshd100%  
+	    New File  		   29502	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_DEF_DX12.bshd100%  
+	    New File  		   27324	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_DEF_Vulkan.bshd100%  
+	    New File  		    1676	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_DEPST_DX11.bshd100%  
+	    New File  		   10249	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_DEPST_DX12.bshd100%  
+	    New File  		    4308	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_DEPST_Vulkan.bshd100%  
+	    New File  		    1060	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_DEPS_DX11.bshd100%  
+	    New File  		    8997	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_DEPS_DX12.bshd100%  
+	    New File  		    2572	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_DEPS_Vulkan.bshd100%  
+	    New File  		    1060	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_DEP_DX11.bshd100%  
+	    New File  		    8997	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_DEP_DX12.bshd100%  
+	    New File  		    2556	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_DEP_Vulkan.bshd100%  
+	    New File  		    1140	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_EMI_DX11.bshd100%  
+	    New File  		    9449	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_EMI_DX12.bshd100%  
+	    New File  		    2708	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_EMI_Vulkan.bshd100%  
+	    New File  		   38140	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_FOR_DX11.bshd100%  
+	    New File  		   48372	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_FOR_DX12.bshd100%  
+	    New File  		   57786	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_FOR_Vulkan.bshd100%  
+	    New File  		    2040	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_VEL_DX11.bshd100%  
+	    New File  		   13213	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_VEL_DX12.bshd100%  
+	    New File  		    6164	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0cd7edce-e88c-01d7-6b76-5db080b3b6fc_ST_VEL_Vulkan.bshd100%  
 	    New File  		   34320	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0f2a0fad-776a-41b4-e8ba-ad927c513c4b.lsf100%  
 	    New File  		   11184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0f2a0fad-776a-41b4-e8ba-ad927c513c4b_STI_DEF_DX11.bshd100%  
 	    New File  		   28202	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_0f2a0fad-776a-41b4-e8ba-ad927c513c4b_STI_DEF_DX12.bshd100%  
@@ -1979,52 +2026,6 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2040	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_cdacc263-e3b5-9ee9-2d86-cd563ee23182_ST_VEL_DX11.bshd100%  
 	    New File  		   13213	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_cdacc263-e3b5-9ee9-2d86-cd563ee23182_ST_VEL_DX12.bshd100%  
 	    New File  		    6164	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_cdacc263-e3b5-9ee9-2d86-cd563ee23182_ST_VEL_Vulkan.bshd100%  
-	    New File  		   34320	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13.lsf100%  
-	    New File  		   11184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_STI_DEF_DX11.bshd100%  
-	    New File  		   28202	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_STI_DEF_DX12.bshd100%  
-	    New File  		   24804	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_STI_DEF_Vulkan.bshd100%  
-	    New File  		    1516	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_STI_DEPST_DX11.bshd100%  
-	    New File  		    9516	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_STI_DEPST_DX12.bshd100%  
-	    New File  		    3558	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_STI_DEPST_Vulkan.bshd100%  
-	    New File  		     884	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_STI_DEPS_DX11.bshd100%  
-	    New File  		    7988	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_STI_DEPS_DX12.bshd100%  
-	    New File  		    1734	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_STI_DEPS_Vulkan.bshd100%  
-	    New File  		     884	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_STI_DEP_DX11.bshd100%  
-	    New File  		    7988	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_STI_DEP_DX12.bshd100%  
-	    New File  		    1734	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_STI_DEP_Vulkan.bshd100%  
-	    New File  		     964	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_STI_EMI_DX11.bshd100%  
-	    New File  		    8440	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_STI_EMI_DX12.bshd100%  
-	    New File  		    1886	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_STI_EMI_Vulkan.bshd100%  
-	    New File  		   36944	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_STI_FOR_DX11.bshd100%  
-	    New File  		   47108	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_STI_FOR_DX12.bshd100%  
-	    New File  		   55282	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_STI_FOR_Vulkan.bshd100%  
-	    New File  		    1776	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_STI_VEL_DX11.bshd100%  
-	    New File  		   12468	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_STI_VEL_DX12.bshd100%  
-	    New File  		    4862	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_STI_VEL_Vulkan.bshd100%  
-	    New File  		   11892	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_BAKE_DX11.bshd100%  
-	    New File  		   27610	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_BAKE_DX12.bshd100%  
-	    New File  		   25696	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_BAKE_Vulkan.bshd100%  
-	    New File  		   12380	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_DEF_DX11.bshd100%  
-	    New File  		   29502	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_DEF_DX12.bshd100%  
-	    New File  		   27324	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_DEF_Vulkan.bshd100%  
-	    New File  		    1676	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_DEPST_DX11.bshd100%  
-	    New File  		   10249	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_DEPST_DX12.bshd100%  
-	    New File  		    4308	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_DEPST_Vulkan.bshd100%  
-	    New File  		    1060	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_DEPS_DX11.bshd100%  
-	    New File  		    8997	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_DEPS_DX12.bshd100%  
-	    New File  		    2572	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_DEPS_Vulkan.bshd100%  
-	    New File  		    1060	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_DEP_DX11.bshd100%  
-	    New File  		    8997	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_DEP_DX12.bshd100%  
-	    New File  		    2556	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_DEP_Vulkan.bshd100%  
-	    New File  		    1140	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_EMI_DX11.bshd100%  
-	    New File  		    9449	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_EMI_DX12.bshd100%  
-	    New File  		    2708	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_EMI_Vulkan.bshd100%  
-	    New File  		   38140	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_FOR_DX11.bshd100%  
-	    New File  		   48372	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_FOR_DX12.bshd100%  
-	    New File  		   57786	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_FOR_Vulkan.bshd100%  
-	    New File  		    2040	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_VEL_DX11.bshd100%  
-	    New File  		   13213	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_VEL_DX12.bshd100%  
-	    New File  		    6164	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_d0581063-9dc6-d9f6-a993-1a8f3b77df13_ST_VEL_Vulkan.bshd100%  
 	    New File  		   34320	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_eea85822-c918-a3d7-66f9-4f5a71b180e8.lsf100%  
 	    New File  		   11184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_eea85822-c918-a3d7-66f9-4f5a71b180e8_STI_DEF_DX11.bshd100%  
 	    New File  		   28202	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Skin_Head_DGB_eea85822-c918-a3d7-66f9-4f5a71b180e8_STI_DEF_DX12.bshd100%  
@@ -2162,27 +2163,52 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2040	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Tearline_ST_VEL_DX11.bshd100%  
 	    New File  		   13213	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Tearline_ST_VEL_DX12.bshd100%  
 	    New File  		    6164	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Materials\Characters\CHAR_Tearline_ST_VEL_Vulkan.bshd100%  
+	    New File  		  637108	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Dreadlocks_FB.GR2100%  
+	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Dreadlocks_FB.xml100%  
+	    New File  		  337412	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Fins_FA.GR2100%  
+	    New File  		     179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Fins_FA.xml100%  
+	    New File  		   1.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_FC.GR2100%  
+	    New File  		     180	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_FC.xml100%  
+	    New File  		  850868	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_FE.GR2100%  
+	    New File  		     180	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_FE.xml100%  
+	    New File  		  282120	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_MA.GR2100%  
+	    New File  		     180	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_MA.xml100%  
+	    New File  		  272392	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_MB.GR2100%  
+	    New File  		     180	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_MB.xml100%  
+	    New File  		  394564	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_MC.GR2100%  
+	    New File  		     180	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_MC.xml100%  
+	    New File  		  604592	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_ME.GR2100%  
+	    New File  		     180	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_ME.xml100%  
+	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_MF.GR2100%  
+	    New File  		     180	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_MF.xml100%  
+	    New File  		  342112	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_MG.GR2100%  
+	    New File  		     180	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_MG.xml100%  
+	    New File  		  479528	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horn_FD.GR2100%  
+	    New File  		     179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horn_FD.xml100%  
+	    New File  		  855228	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_MD.GR2100%  
+	    New File  		     174	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_MD.xml100%  
+	    New File  		   17608	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Characters\_Anims\Dragonborn\_Male\DGB_M_NKD_Head_D_Base_BackUP.GR2100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
-    Dirs :        14        14         1         0         0         0
-   Files :       945       945         0         0         0         0
-   Bytes :   50.36 m   50.36 m         0         0         0         0
-   Times :   0:00:01   0:00:00                       0:00:00   0:00:00
+    Dirs :        20        20         1         0         0         0
+   Files :       944       944         0         0         0         0
+   Bytes :   57.09 m   57.09 m         0         0         0         0
+   Times :   0:00:02   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           211239484 Bytes/sec.
-   Speed :           12087.220 MegaBytes/min.
-   Ended : Sunday, May 25, 2025 6:12:01 AM
+   Speed :           178173937 Bytes/sec.
+   Speed :           10195.194 MegaBytes/min.
+   Ended : Thursday, July 3, 2025 3:43:07 PM
 
  
 [DEBUG] Counting source files 
-[DEBUG] Total files counted: 945 
-[DEBUG] Successfully copied files: 945 
+[DEBUG] Total files counted: 944 
+[DEBUG] Successfully copied files: 944 
 [LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14: 
-      Total files: 945 
-      Copied successfully: 945 
+      Total files: 944 
+      Copied successfully: 944 
       Skipped: 0 
       Mismatched: 0 
       Failed: 0 
@@ -2200,7 +2226,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Sunday, May 25, 2025 6:12:03 AM
+  Started : Thursday, July 3, 2025 3:43:09 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\
      Dest : C:\GIT_BG3\MOD_REPOS\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\
 
@@ -2210,39 +2236,69 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		   48688	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\SK\Cinderly_SK_v11_1.GR2100%  
-	    New File  		   65048	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\DGB_M_NKD_Head_CDRL_Chin_CDRL_A_V14.GR2100%  
-	    New File  		  183672	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\DGB_M_NKD_Head_CDRL_Jaw_CDRL_A_V14.GR2100%  
-	    New File  		  19.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\DGB_M_NKD_Head_CDRL_Top_CDRL_A_V14.GR2100%  
-	    New File  		  668872	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\DGB_M_NKD_Head_CDRL_V14.GR2100%  
-	    New File  		  64.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Textures\DRAGON_Red_Head_A_000_Albedo.DDS 37%  100%  
+	    New File  		  64.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Textures\DRAGON_Red_Head_A_000_Albedo.DDS 20%   46%   84%  100%  
 	    New File  		  64.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Textures\DRAGON_Red_Head_A_000_Normal.DDS100%  
 	    New File  		  64.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Textures\DRAGON_Red_Head_A_000_Physical.DDS100%  
+	    New File  		   65048	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\DGB_M_NKD_Head_CDRL_Chin_CDRL_A_V14.GR2100%  
+	    New File  		  19.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\DGB_M_NKD_Head_CDRL_Top_CDRL_A_V14.GR2100%  
+	    New File  		  668872	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\DGB_M_NKD_Head_CDRL_V14.GR2100%  
+	    New File  		   36448	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\SK\DGB_M_Base_A_EL_4.GR2100%  
+	    New File  		   48700	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\SK\DGB_M_NKD_Head_CDRL_Base.GR2100%  
+	    New File  		  645036	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Head\DGB_M_NKD_Head_CDRL.GR2100%  
+	    New File  		  183672	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Jaw\DGB_M_NKD_Head_CDRL_Jaw_A.GR2100%  
+	    New File  		   2.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_A\DGB_M_NKD_Head_CDRL_Top_CDRL_A.GR2100%  
+	    New File  		  637108	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Dreadlocks_FB.GR2100%  
+	    New File  		  337412	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Fins_FA.GR2100%  
+	    New File  		   1.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_FC.GR2100%  
+	    New File  		  850868	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_FE.GR2100%  
+	    New File  		  282120	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_MA.GR2100%  
+	    New File  		  272392	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_MB.GR2100%  
+	    New File  		  394564	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_MC.GR2100%  
+	    New File  		  604592	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_ME.GR2100%  
+	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_MF.GR2100%  
+	    New File  		  342112	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horns_MG.GR2100%  
+	    New File  		  479528	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_Horn_FD.GR2100%  
+	    New File  		  855228	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Cinderly\Mesh\Crest\CDRL_Top_Vanilla\DGB_M_NKD_Head_CDRL_Top_MD.GR2100%  
 	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Characters\_Models\_SharedAssets\SHARED_Eyes\EYES_AO_DGB_Region_000.DDS100%  
 	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Characters\_Models\_SharedAssets\SHARED_Eyes\EYES_DGB_Parts_000.DDS100%  
 	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Characters\_Models\_SharedAssets\SHARED_Eyes\EYES_DGB_Parts_0001.DDS100%  
 	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Characters\_Models\_SharedAssets\SHARED_Eyes\EYES_Iris_Cat_NM_000.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Head_CDRL\Resources\DGB_M_NKD_Head_CDRL_Top_CDRL_A_Dreads_A_BM.DDS100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Head_CDRL\Resources\DGB_M_NKD_Head_CDRL_Top_CDRL_A_Dreads_A_NM.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Head_CDRL\Resources\DGB_M_NKD_Head_CDRL_Top_CDRL_A_Dreads_A_PM.DDS100%  
+	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Head_CDRL\Resources\DGB_M_NKD_Head_CDRL_Top_CDRL_A_Dreads_CTLO.DDS100%  
+	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Head_CDRL\Resources\DGB_M_NKD_Head_CDRL_Top_CDRL_A_Dreads_DB_DMSK.DDS100%  
+	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Head_CDRL\Resources\DGB_M_NKD_Head_CDRL_Top_CDRL_A_Dreads_DMSK.DDS100%  
+	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Head_CDRL\Resources\DGB_M_NKD_Head_CDRL_Top_CDRL_A_Dreads_HMVY.DDS100%  
+	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Head_CDRL\Resources\DGB_M_NKD_Head_CDRL_Top_CDRL_A_Dreads_MSK.DDS100%  
+	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Head_CDRL\Resources\DGB_M_NKD_Head_CDRL_Top_CDRL_A_Dreads_NM.DDS100%  
+	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Head_CDRL\Resources\DGB_M_NKD_Head_CDRL_Top_CDRL_A_Head_CTLO.DDS100%  
+	    New File  		  699192	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Head_CDRL\Resources\DGB_M_NKD_Head_CDRL_Top_CDRL_A_Head_DB_DMSK.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Head_CDRL\Resources\DGB_M_NKD_Head_CDRL_Top_CDRL_A_Head_DMSK.DDS100%  
+	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Head_CDRL\Resources\DGB_M_NKD_Head_CDRL_Top_CDRL_A_Head_HMVY.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Head_CDRL\Resources\DGB_M_NKD_Head_CDRL_Top_CDRL_A_Head_MSK.DDS100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Head_CDRL\Resources\DGB_M_NKD_Head_CDRL_Top_CDRL_A_Head_NM.DDS100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
-    Dirs :        20        20         1         0         0         0
-   Files :        12        12         0         0         0         0
-   Bytes :  217.30 m  217.30 m         0         0         0         0
-   Times :   0:00:01   0:00:00                       0:00:00   0:00:00
+    Dirs :        29        29         1         0         0         0
+   Files :        42        42         0         0         0         0
+   Bytes :  347.88 m  347.88 m         0         0         0         0
+   Times :   0:00:04   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           762090421 Bytes/sec.
-   Speed :           43607.163 MegaBytes/min.
-   Ended : Sunday, May 25, 2025 6:12:03 AM
+   Speed :           547724414 Bytes/sec.
+   Speed :           31341.042 MegaBytes/min.
+   Ended : Thursday, July 3, 2025 3:43:10 PM
 
  
 [DEBUG] Counting source files 
-[DEBUG] Total files counted: 12 
-[DEBUG] Successfully copied files: 12 
+[DEBUG] Total files counted: 42 
+[DEBUG] Successfully copied files: 42 
 [LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14: 
-      Total files: 12 
-      Copied successfully: 12 
+      Total files: 42 
+      Copied successfully: 42 
       Skipped: 0 
       Mismatched: 0 
       Failed: 0 
@@ -2259,7 +2315,7 @@ SECTION 3: FALLBACK COPY ATTEMPTS
 [LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14 
 [LOG] Xcopy completed with code: 0 
 [LOG] Xcopy fallback successful 
-[LOG] Files copied by xcopy: 22 
+[LOG] Files copied by xcopy: 21 
 [LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14 
 [LOG] Xcopy completed with code: 0 
 [LOG] Xcopy fallback successful 
@@ -2267,17 +2323,17 @@ SECTION 3: FALLBACK COPY ATTEMPTS
 [LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14 
 [LOG] Xcopy completed with code: 0 
 [LOG] Xcopy fallback successful 
-[LOG] Files copied by xcopy: 945 
+[LOG] Files copied by xcopy: 944 
 [LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Companion_Cinderly_Firkraag_091eebcf-89b0-a3aa-888b-f9712815df14 
 [LOG] Xcopy completed with code: 0 
 [LOG] Xcopy fallback successful 
-[LOG] Files copied by xcopy: 12 
+[LOG] Files copied by xcopy: 42 
 SECTION 4: FINAL SUMMARY 
 ------------------------------------------------------------------------ 
  
 [SUMMARY] Total mod folders found: 1 
-[SUMMARY] Total files found: 984 
-[SUMMARY] Total files successfully copied: 1968 
+[SUMMARY] Total files found: 1012 
+[SUMMARY] Total files successfully copied: 2024 
  
 [SUMMARY] All files were copied successfully 
  
