@@ -50,7 +50,8 @@
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="30cb3611-2e22-415d-8955-1a1d365ceeb9" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h24e82b20g6873gd688g62e6ga2a0410f32fc" version="2" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="374ccf15-dee9-48d2-9a75-0aa91c89a64a" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="f14921cc-d5d2-4497-aae8-8f6e2811145b" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_CDRL_Chin_CDRL_A_1" />
       </fields>
     </stat_object>
     <stat_object color="#FF000000" is_substat="false">
@@ -566,6 +567,20 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc19ae236g5babg1b10g799dg07ef1957b0bc" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_D_Chin_FB" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF000000" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_11" />
+        <field name="UUID" type="IdTableFieldDefinition" value="e4887038-736d-45fb-a5fe-08f82383220a" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="30cb3611-2e22-415d-8955-1a1d365ceeb9" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb8417323g3414gd283gb236g6dd2544bcfe9" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="374ccf15-dee9-48d2-9a75-0aa91c89a64a" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_CDRL_Chin_CDRL_A" />
       </fields>
     </stat_object>
   </stat_objects>
