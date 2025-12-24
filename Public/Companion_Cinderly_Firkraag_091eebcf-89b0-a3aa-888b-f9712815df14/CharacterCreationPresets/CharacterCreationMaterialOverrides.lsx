@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
-    <version major="4" minor="7" revision="1" build="3"/>
+    <version major="4" minor="8" revision="0" build="500"/>
     <region id="CharacterCreationMaterialOverrides">
         <node id="root">
             <children>
@@ -8,8 +8,28 @@
                     <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
                     <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
                     <attribute id="MaterialType" type="FixedString" value="Passive"/>
-                    <attribute id="Name" type="FixedString" value="Test_1"/>
-                    <attribute id="UUID" type="guid" value="1fe55e8b-90bd-4934-8451-0655c07e1310"/>
+                    <attribute id="Name" type="FixedString" value="DGB_M_NKD_Head_CDRL_Top_CDRL_A_Head"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="0cd7edce-e88c-01d7-6b76-5db080b3b6fc"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="b2e49fc9-582a-94f6-b6ed-9ec852e19fcc"/>
+                    <attribute id="UUID" type="guid" value="2dcb4350-3aab-4c2b-b0e9-71c35bedabe9"/>
+                </node>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_M_NKD_Head_CDRL"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="65c98b90-735a-1b65-2703-3e7b95d18b56"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="bf6fb553-a5d3-ee29-12bc-0dee31d48b68"/>
+                    <attribute id="UUID" type="guid" value="f8299341-63cf-404b-b96e-06f388f25f0e"/>
+                </node>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_M_NKD_Head_CDRL_Top_CDRL_A_Dreads"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="15adee8c-8171-29ab-b591-64e54262340d"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="ca884ac0-39e2-750c-86f7-5837dcbb4d0d"/>
+                    <attribute id="UUID" type="guid" value="9f1d97b5-41d7-4ae2-9eb4-d91e939238a2"/>
                 </node>
             </children>
         </node>
